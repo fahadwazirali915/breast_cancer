@@ -1,8 +1,12 @@
 # <span style="color:orange">**Breast-Cancer Prediction**</span>
 
+![breast cancer](bc.png)
+
+***
+
 ## <span style="color:blue">**Classification Problem**</span>
 
----
+***
 
 ## <span style="color:red">**Techniques**: </span>
 - **Decision Tree**
